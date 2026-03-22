@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project focuses on analyzing Netflix movies and TV shows data to uncover insights about content distribution, trends, ratings, and genres.
-The project includes **data cleaning, exploratory data analysis (EDA) using Python**, sql** and an **interactive dashboard built in Power BI**.
+The project includes **data cleaning, exploratory data analysis (EDA) using Python**, sql and an **interactive dashboard built in Power BI**.
 
 ---
 
